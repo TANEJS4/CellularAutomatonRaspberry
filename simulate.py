@@ -27,7 +27,7 @@ class Simulate:
             fig, ax = plt.subplots()
             ax.set_axis_off()
             fig.set_facecolor("#000000")
-            img = ax.imshow(board_map,animated=True)
+            img = ax.imshow(board_map,animated=True,cmap="copper")
             # img.cmap = "plasma"
             
             def update(frame):
@@ -43,10 +43,11 @@ class Simulate:
                 update,
                 frames=n_generations,
                 blit=True,
-                interval=300,
-                # repeat_delay=1000
+                interval=1000,
+                # repeat_delay=100
             )
+            # animated_board.
             plt.close()
 
             print("Saving animation as: run")
-            animated_board.save("run.mp4")
+            animated_board.save("run.mp4", fps=24)

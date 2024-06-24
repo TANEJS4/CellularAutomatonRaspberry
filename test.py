@@ -1,9 +1,14 @@
 # %%
-from simulate import Simulate
-game1 = Simulate(boardSize=100)
-print(game1.run_simulation(n_generations=5))
+# from simulate import Simulate
+# game1 = Simulate(boardSize=100)
+# print(game1.run_simulation(n_generations=500))
+# %%
 
-# board = GameBoard(5)
-# print("Initial state\n\n",  board)
-# conway = GameOfLife()
-# print(conway.updateNeighbors(board))
+from gameboard import GameBoard
+from conwayGameoflife import GameOfLife
+from highlife import HighLife
+
+# board = GameBoard(boardSize=5, type="full")
+# print("Initial state\n\n", board)
+conway = HighLife(boardSize=5,  type="full")
+print(conway.updateNeighbors())
