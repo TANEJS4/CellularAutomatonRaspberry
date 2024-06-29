@@ -1,9 +1,13 @@
 
 activate:
 	(\
-		source ${HOME}/Projects/cellularAutomaton/.venv/bin/activate;\
+		source .venv/bin/activate;\
 		pip install -r requirement.txt;\
 	)
 
-test: activate
+test:
 	python test.py
+
+
+visual:
+	python visual.py
