@@ -5,7 +5,7 @@ from gameboard import GameBoard
 class HighLife (GameBoard):
 
     # @staticmethod
-    def updateNeighbors(self) ->  npt.NDArray[np.float64]:
+    def next_generation(self) ->  npt.NDArray[np.float64]:
     #  curr_board: npt.NDArray[np.float64]) -> npt.NDArray[np.float64]:
         curr_board =  self.board
         k = np.array([[1, 1, 1],

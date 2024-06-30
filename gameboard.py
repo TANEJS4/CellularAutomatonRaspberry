@@ -1,9 +1,8 @@
-from typing import Self
 import numpy as np
 import numpy.typing as npt
 
 class GameBoard:
-    def __init__(self, boardSize: int, type="random", alive_prob: float = 0.1):
+    def __init__(self, boardSize: int, type="random", alive_prob: float = 0.01):
         self.boardSize = boardSize
         self._board = self._generateBoard(type, alive_prob)
         self._endgame =  self.endgame_state()
@@ -19,10 +18,7 @@ class GameBoard:
     def board(self, new_board):
         self._board = new_board
         self._endgame = self.endgame_state()
-
-    def __getitem__(self, tup):
-        i, j = tup
-        return self._board[i][j]
+    
     def _generateBoard(self, type, alive_prob) -> npt.NDArray[np.float64]:
         if type == "full":
             return np.ones((self.boardSize, self.boardSize))
@@ -35,11 +31,11 @@ class GameBoard:
                 p=[1 - alive_prob, alive_prob],
             )
     
-    
+    #  Helper
     def endgame_state(self) -> bool:
         return not any(any(row) for row in self._board)
 
-
+    # attributes
     def __str__(self) -> str :
         out = ""
         for i in range(self.boardSize):
@@ -48,3 +44,6 @@ class GameBoard:
             out += "\n"
         return out
  
+    def __getitem__(self, tup):
+        i, j = tup
+        return self._board[i][j]

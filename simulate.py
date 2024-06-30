@@ -10,7 +10,7 @@ from PIL import Image
 # board = GameBoard(5)
 # print("Initial state\n\n",  board)
 # conway = GameOfLife()
-# print(conway.updateNeighbors(board))
+# print(conway.next_generation(board))
 
 class Simulate:
     def __init__(self, boardSize :int ,game =  "conway"):
@@ -33,7 +33,7 @@ class Simulate:
             def update(frame):
                 nonlocal board_map
                 if frame > 0:
-                    board_map = self.game.updateNeighbors(board_map)
+                    board_map = self.game.next_generation(board_map)
                 img.set_data(board_map)
                 return [img]
 
