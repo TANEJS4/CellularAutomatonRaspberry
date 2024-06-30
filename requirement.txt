@@ -5,3 +5,5 @@ PyQt5
 typeguard
 PyOpenGL
 pyxel
+black
+matplotlib

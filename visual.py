@@ -22,6 +22,7 @@ TEXT_COLOR = 11
 
 class Board:
     def __init__(self):
+        self.game_types = [GameOfLife, HighLife]
         self.game = GameOfLife(SCREEN_HEIGHT)
         self.fps = 5
         self.state = MENU
@@ -44,7 +45,7 @@ class Board:
         if px.btnp(px.KEY_M):
             self.state = MENU
 
-        if self.no_progress:
+        if self.no_progress or self.age > 100:
             self.age = 0
             self.no_progress = False
             self.game = GameOfLife(SCREEN_HEIGHT)
@@ -53,7 +54,7 @@ class Board:
         # * update game
         if self.state == PLAYING:
             time.sleep((1 / self.fps) * 3)
-            if self.age > 10:
+            if self.age > 50:
                 self.game.survival_generation()
             else:
                 self.game.next_generation()
