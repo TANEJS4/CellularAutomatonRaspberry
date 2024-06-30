@@ -1,0 +1,2631 @@
+python test.py
+ -  o  -  o  -  o  -  -  -  - 
+ o  o  o  o  -  o  o  o  -  - 
+ -  -  o  o  o  -  o  -  -  - 
+ o  o  o  o  -  o  o  o  -  - 
+ -  o  -  o  o  o  o  -  -  - 
+ -  o  -  -  o  o  o  -  -  - 
+ -  o  -  -  -  o  -  -  -  - 
+ -  -  o  -  o  -  o  o  -  - 
+ -  -  -  o  -  o  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+
+stale progress (False, False, False)
+ o  o  -  -  -  -  -  o  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  o  - 
+ -  -  -  -  -  -  -  o  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  -  -  o  -  -  -  o  -  - 
+ o  -  o  o  -  -  -  o  -  - 
+ -  o  -  o  o  -  o  -  -  - 
+ -  -  o  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  o  -  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  o  o  - 
+ -  -  -  -  -  -  -  o  -  - 
+ -  -  -  -  -  -  -  -  o  - 
+ -  -  -  -  -  -  o  o  o  - 
+ -  o  o  -  o  -  o  -  o  - 
+ -  -  -  -  -  o  o  -  o  - 
+ o  o  -  -  o  o  o  o  o  - 
+ -  o  -  -  -  -  -  -  -  - 
+ -  -  -  o  -  o  -  o  -  - 
+
+stale progress (False, False, False)
+ o  o  -  -  -  -  -  o  o  - 
+ -  -  -  -  -  -  o  -  -  - 
+ o  o  -  -  -  -  o  o  -  o 
+ -  -  -  -  -  -  o  -  o  o 
+ -  o  o  o  -  o  -  -  o  o 
+ -  -  -  o  -  -  -  -  o  o 
+ o  -  o  o  -  -  -  -  o  o 
+ -  -  o  -  -  -  -  -  -  o 
+ o  -  o  o  -  -  -  -  o  - 
+ -  -  o  -  o  -  o  -  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  o  -  -  - 
+ -  -  o  -  -  o  o  -  -  o 
+ -  -  -  -  -  o  o  -  -  - 
+ o  -  -  o  o  o  o  -  -  - 
+ -  -  o  -  o  -  o  -  -  - 
+ o  -  -  -  -  -  -  o  -  - 
+ -  o  o  o  o  -  -  o  -  - 
+ o  -  -  -  o  -  -  o  -  o 
+ -  -  o  -  o  o  -  o  -  o 
+ -  o  -  -  -  o  -  o  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  o  -  - 
+ -  o  o  o  -  -  -  o  -  - 
+ -  o  o  o  -  -  -  o  -  - 
+ o  o  -  -  o  -  o  o  -  - 
+ -  -  -  -  o  o  o  -  o  - 
+ o  o  -  o  -  o  o  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  o  o  o  -  -  -  - 
+ -  -  o  o  o  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  o  -  o  -  o  - 
+ -  o  o  o  -  o  -  -  o  - 
+ o  o  -  -  o  -  o  -  o  - 
+ -  -  -  -  o  o  -  o  o  - 
+ -  o  -  -  o  -  -  -  o  - 
+ -  -  o  o  -  -  -  -  -  - 
+ -  -  o  -  -  -  o  o  -  - 
+ -  -  -  o  -  -  o  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  o  -  -  o  -  -  -  - 
+
+stale progress (False, False, False)
+ -  o  o  o  -  o  -  o  -  o 
+ o  o  o  o  -  -  o  -  -  o 
+ -  o  -  -  -  -  o  -  o  o 
+ o  o  o  o  o  -  o  -  o  o 
+ -  -  o  -  o  o  o  o  -  o 
+ -  o  o  o  o  o  o  o  o  - 
+ -  o  o  -  o  o  -  -  -  - 
+ -  -  o  -  -  o  -  o  -  - 
+ o  o  o  o  o  o  o  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ o  -  -  o  o  -  o  -  o  - 
+ o  -  -  o  o  o  o  -  -  o 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  o 
+ o  -  -  -  -  -  -  -  o  o 
+ o  -  -  -  -  -  -  -  o  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  o  o  o  o  o  o  o  -  - 
+ o  o  o  o  o  o  o  -  -  - 
+
+stale progress (False, False, False)
+ -  o  o  o  -  -  -  o  -  o 
+ -  o  o  -  -  -  -  o  o  - 
+ -  -  -  -  -  -  o  -  -  - 
+ -  -  -  o  -  o  -  -  -  - 
+ -  o  -  -  -  -  -  -  o  - 
+ -  o  -  -  -  -  -  o  o  o 
+ -  o  -  -  -  -  -  o  -  o 
+ -  -  o  o  o  o  o  o  o  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  o  -  - 
+
+stale progress (False, False, False)
+ o  o  -  -  -  -  o  -  -  - 
+ o  o  -  o  -  -  o  o  o  o 
+ -  o  o  o  o  o  -  o  o  - 
+ -  -  o  -  o  -  o  o  -  - 
+ o  -  o  -  o  -  o  o  o  o 
+ o  -  o  -  -  -  o  o  -  o 
+ o  -  -  o  o  o  -  -  -  o 
+ -  o  -  -  -  -  o  o  o  o 
+ -  -  o  o  o  o  -  -  o  - 
+ -  -  -  -  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ o  o  -  -  -  -  o  -  -  - 
+ -  -  -  o  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  o  -  -  -  -  -  -  o 
+ o  -  o  -  -  -  -  -  -  o 
+ o  -  -  o  o  o  -  -  -  o 
+ -  o  -  -  -  -  o  o  -  o 
+ -  -  o  o  o  o  -  -  o  - 
+ -  -  -  -  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  o  -  -  -  -  -  -  o 
+ o  -  -  o  o  o  -  -  -  o 
+ -  o  -  -  -  -  o  o  -  o 
+ -  -  o  o  o  o  -  -  o  - 
+ -  -  -  -  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  o  o  o  -  -  -  o 
+ -  o  -  -  -  -  o  o  -  o 
+ -  -  o  o  o  o  -  -  o  - 
+ -  -  -  -  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  o 
+ -  -  o  o  o  o  -  -  o  - 
+ -  -  -  -  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  o  o  o  -  -  o  - 
+ -  -  -  -  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  o  o  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+
+stale progress (True, True, True)
+python test.py
+ -  -  o  -  -  o  -  -  -  - 
+ -  -  o  -  o  o  o  o  -  - 
+ -  -  -  -  -  -  o  -  o  - 
+ -  -  -  -  -  -  o  -  -  - 
+ -  -  -  -  -  -  -  -  o  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  o  -  -  -  -  -  -  -  - 
+ -  o  -  -  -  -  -  o  -  o 
+ o  o  o  o  o  -  -  o  -  o 
+ -  -  -  -  -  o  -  -  -  - 
+
+stale progress (False, False, False)
+ -  o  -  o  o  o  -  o  -  - 
+ -  o  -  o  -  -  -  o  o  - 
+ -  -  -  o  o  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  o  o 
+ -  -  -  -  -  -  -  o  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  -  o  -  -  -  -  -  o  - 
+ -  -  -  o  o  -  o  -  -  - 
+ -  o  o  -  -  o  o  -  -  - 
+ o  o  o  o  o  -  o  -  o  - 
+
+stale progress (False, False, False)
+ o  -  -  -  o  -  o  -  o  - 
+ o  -  -  -  -  o  o  -  -  - 
+ -  -  o  -  o  o  o  o  -  o 
+ -  -  -  o  o  -  o  o  -  - 
+ -  -  -  -  -  -  o  -  o  o 
+ -  o  -  -  -  -  -  o  o  - 
+ -  o  -  o  o  o  -  o  -  - 
+ o  -  -  o  -  -  -  o  -  - 
+ o  -  -  -  -  -  o  -  -  - 
+ -  -  -  o  -  -  -  o  -  - 
+
+stale progress (False, False, False)
+ -  o  -  -  -  -  -  o  -  - 
+ -  o  -  o  -  -  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+ -  -  o  o  o  -  -  -  -  o 
+ -  -  o  o  o  o  o  -  -  - 
+ o  -  o  o  o  o  -  -  -  o 
+ o  -  -  -  o  -  -  o  -  - 
+ -  o  o  -  -  o  -  -  o  - 
+ -  o  o  o  o  -  -  o  o  - 
+ -  -  -  -  -  -  o  -  -  - 
+
+stale progress (False, False, False)
+ o  -  o  -  -  -  -  -  o  o 
+ o  -  -  -  -  -  -  o  o  - 
+ o  -  -  -  o  -  -  o  o  - 
+ -  o  -  -  -  -  o  o  o  - 
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  o  -  -  -  -  o  o  - 
+ -  -  -  -  -  -  o  -  o  o 
+ o  -  -  -  -  -  o  -  o  o 
+ o  o  -  o  -  o  o  o  -  o 
+ -  o  o  o  o  o  -  o  o  - 
+
+stale progress (False, False, False)
+ -  o  -  -  -  -  -  o  o  - 
+ -  -  -  o  -  -  o  -  -  - 
+ -  o  -  -  -  o  -  -  -  o 
+ o  -  -  -  -  o  -  -  -  - 
+ -  o  o  -  -  -  o  -  -  o 
+ -  -  -  -  -  -  o  -  -  - 
+ -  o  -  -  -  o  -  -  -  - 
+ -  o  o  -  o  -  -  -  -  - 
+ o  -  -  o  -  -  -  -  -  o 
+ o  o  -  o  -  o  -  o  o  o 
+
+stale progress (False, False, False)
+ -  -  o  -  -  -  o  -  -  - 
+ o  o  o  -  o  o  -  o  o  o 
+ o  -  o  -  o  -  o  -  -  - 
+ -  -  o  -  o  -  o  -  o  o 
+ o  -  -  -  -  o  -  o  -  - 
+ o  o  o  -  -  o  -  o  -  - 
+ o  -  o  o  o  -  o  -  -  - 
+ o  o  o  o  -  o  -  -  -  - 
+ o  -  -  o  -  o  o  o  -  - 
+ -  -  o  -  o  -  o  -  o  - 
+
+stale progress (False, False, False)
+ o  -  -  o  o  o  -  o  o  o 
+ -  -  o  -  -  -  -  o  -  - 
+ -  -  o  -  o  -  o  -  -  - 
+ o  -  -  -  -  -  o  -  -  - 
+ -  -  o  o  o  o  -  o  -  o 
+ o  -  o  -  -  o  -  -  o  - 
+ -  -  -  -  -  -  o  o  -  - 
+ o  -  -  -  -  -  -  o  -  - 
+ -  -  -  -  -  -  -  o  o  - 
+ -  o  -  o  -  -  o  -  -  - 
+
+stale progress (False, False, False)
+ -  o  o  -  -  -  o  -  o  - 
+ -  o  -  -  -  -  -  o  -  o 
+ -  o  -  o  -  o  -  o  -  - 
+ -  o  o  -  -  -  o  o  o  - 
+ o  -  -  o  o  o  -  -  o  - 
+ -  o  -  -  -  o  -  -  o  o 
+ o  o  -  -  -  o  o  o  o  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  o  -  -  -  o  o  -  - 
+ -  -  o  -  -  -  -  o  o  - 
+
+stale progress (False, False, False)
+ o  -  -  -  -  -  -  o  -  o 
+ o  o  -  o  o  o  -  o  -  - 
+ o  o  -  -  o  -  -  -  -  o 
+ o  o  -  -  -  -  -  -  o  o 
+ -  -  -  -  o  o  -  -  -  - 
+ -  o  o  o  -  -  -  -  -  o 
+ -  -  o  -  o  -  o  o  o  o 
+ -  -  o  -  -  o  -  -  o  - 
+ -  o  -  o  -  -  -  o  o  - 
+ o  -  -  o  -  -  o  o  -  - 
+
+stale progress (False, False, False)
+ -  o  o  o  o  o  o  -  o  - 
+ -  -  o  -  o  -  o  -  -  o 
+ -  -  -  o  o  o  o  o  -  - 
+ o  o  o  o  o  o  -  -  -  - 
+ o  -  -  o  -  -  -  -  o  o 
+ -  -  o  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  o 
+ -  o  o  -  o  -  -  -  -  - 
+ o  -  -  -  o  o  -  -  o  o 
+ -  o  o  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  o  o  -  o  -  o  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  o  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  o  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  o  -  -  o  -  -  -  -  - 
+ o  -  -  -  o  o  -  -  o  o 
+ -  o  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ o  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ o  o  -  -  -  -  -  -  -  - 
+ o  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  o  o  -  - 
+ -  -  -  -  -  o  -  o  -  - 
+ -  -  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  o 
+ -  -  -  -  o  -  -  o  o  - 
+
+stale progress (False, False, False)
+python test.py
+ -  -  -  -  o  -  -  o  -  - 
+ -  o  -  -  -  -  o  -  -  - 
+ -  o  -  o  -  -  o  o  -  - 
+ o  o  o  -  o  -  o  -  -  - 
+ -  -  o  -  o  -  o  -  -  - 
+ -  o  o  -  o  -  -  -  -  - 
+ -  -  o  -  o  -  -  -  -  - 
+ -  o  -  o  -  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  o  - 
+ -  o  o  o  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  o  o  -  -  - 
+ o  -  o  o  o  o  o  -  o  - 
+ -  -  -  -  o  -  o  o  -  - 
+ -  -  -  -  -  -  o  -  -  - 
+ o  -  -  -  -  -  -  o  -  - 
+ -  o  o  -  -  -  -  -  -  - 
+ o  -  -  -  -  o  -  -  -  - 
+ -  -  o  o  -  o  -  -  -  - 
+ o  o  -  -  o  -  -  -  -  - 
+ -  -  -  -  o  o  -  -  -  - 
+
+stale progress (False, False, False)
+ -  o  o  o  -  -  o  o  -  - 
+ -  o  -  o  -  -  -  -  -  - 
+ -  o  o  -  o  -  -  -  o  - 
+ -  -  -  -  -  o  o  -  o  - 
+ -  o  o  -  -  -  o  -  -  - 
+ o  o  -  -  -  -  o  -  -  - 
+ -  -  -  o  o  -  o  -  -  - 
+ o  -  -  -  -  -  o  -  -  - 
+ -  -  o  -  -  -  o  -  -  - 
+ o  o  -  o  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ o  -  -  -  o  -  -  -  -  - 
+ o  -  -  -  o  o  o  o  o  - 
+ o  -  o  o  -  o  o  o  -  o 
+ o  -  -  o  o  o  -  -  -  o 
+ o  o  -  -  -  -  o  -  -  - 
+ -  o  -  o  o  -  -  o  -  - 
+ o  o  o  -  -  -  -  o  -  - 
+ -  o  o  o  o  -  -  o  -  - 
+ o  -  -  o  -  o  -  o  -  - 
+ -  -  o  -  -  -  -  -  -  - 
+
+stale progress (False, False, False)
+ -  o  -  o  -  -  o  o  o  - 
+ -  -  o  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  - 
+ o  -  -  o  -  -  -  o  o  - 
+ o  o  -  -  -  -  -  o  o  - 
+ -  -  -  -  -  o  o  -  o  - 
+ o  -  -  -  -  o  o  -  o  - 
+ -  -  -  -  o  o  -  -  o  - 
+ -  -  -  -  -  -  o  -  o  - 
+ -  o  -  o  o  -  o  -  -  - 
+
+stale progress (False, False, False)
+ -  -  o  -  -  -  -  o  o  o 
+ -  o  -  o  -  -  o  -  o  - 
+ -  o  o  o  -  -  -  o  -  o 
+ -  o  o  -  -  -  o  o  o  o 
+ -  -  o  -  o  o  -  -  -  o 
+ o  o  -  -  o  o  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  o  o  -  -  -  -  -  o 
+ -  -  o  -  -  o  -  o  -  - 
+
+stale progress (False, False, False)
+ -  o  -  o  -  -  o  o  o  - 
+ o  o  -  o  o  -  -  -  -  - 
+ o  -  -  o  o  o  -  -  -  o 
+ o  -  -  -  o  o  o  o  -  o 
+ o  -  o  -  o  -  -  -  -  - 
+ -  -  o  o  o  o  o  -  o  o 
+ o  o  -  -  o  o  -  -  -  o 
+ -  -  o  o  -  -  -  -  o  - 
+ -  o  -  -  o  -  o  -  o  - 
+ -  o  -  o  o  -  o  -  o  - 
+
+stale progress (False, False, False)
+ o  -  -  -  o  o  -  -  -  - 
+ o  o  -  -  -  -  o  o  o  o 
+ o  -  o  -  -  -  -  o  o  - 
+ -  -  o  -  -  -  o  -  o  - 
+ -  -  -  -  -  -  -  -  -  o 
+ o  -  o  -  -  -  -  o  -  - 
+ -  o  -  -  -  -  o  o  -  o 
+ o  -  o  o  -  -  o  o  -  o 
+ o  -  -  -  o  -  -  -  -  o 
+ o  -  o  -  -  -  -  -  -  o 
+
+stale progress (False, False, False)
+ -  o  -  -  -  -  o  o  o  o 
+ o  -  o  o  o  o  o  -  -  - 
+ -  -  -  o  -  o  -  -  -  - 
+ -  o  -  o  -  -  -  -  o  o 
+ -  o  o  o  -  -  o  o  o  - 
+ -  o  -  -  -  -  o  -  -  o 
+ o  -  -  o  -  o  -  -  -  - 
+ -  -  -  -  o  o  o  o  -  - 
+ -  -  o  -  -  o  o  o  -  - 
+ -  o  -  o  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ o  -  o  o  o  -  o  o  -  - 
+ -  o  o  o  -  -  -  -  o  o 
+ o  o  -  -  -  o  o  o  o  o 
+ o  -  -  o  -  o  o  -  o  - 
+ o  o  -  -  o  o  -  -  -  - 
+ o  o  -  o  o  o  o  -  o  - 
+ -  o  o  -  -  -  -  o  o  - 
+ -  o  o  o  -  -  -  o  o  - 
+ -  o  -  o  -  -  -  -  o  - 
+ -  -  o  -  o  o  o  o  -  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  o  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ o  -  -  o  -  o  -  -  -  - 
+ -  -  o  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  o  -  -  o  -  -  o 
+ -  -  -  -  -  o  -  -  -  o 
+ o  -  -  o  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  o  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  o  -  -  -  o 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  o 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
+ -  -  -  -  -  -  -  -  o  o 
+ -  -  -  -  -  -  -  -  -  o 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  -  -  -  -  - 
+ -  -  -  -  -  o  -  -  -  - 
+ o  -  -  -  o  -  o  -  -  o 
+ o  o  -  -  -  o  -  -  o  o 
+ -  o  -  -  -  -  -  -  o  - 
+
+stale progress (False, False, False)
